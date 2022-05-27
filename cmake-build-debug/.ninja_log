@@ -1,0 +1,26 @@
+# ninja log v5
+4	208	1653622152922786660	CMakeFiles/pinyin_ime_dictbuilder.dir/share/ngram.cpp.o	a55921a5855c0720
+113	279	1653622257037386635	pinyin_ime_dictbuilder	24cbd4d3069a52ab
+1	169	1653622249187061653	CMakeFiles/pinyin_ime_dictbuilder.dir/share/spellingtrie.cpp.o	1656ef2a54bcde0d
+1	266	1653622198184866074	CMakeFiles/pinyin_ime_dictbuilder.dir/share/dicttrie.cpp.o	11cb6d00dbb3cc52
+1	260	1653622152972789031	CMakeFiles/pinyin_ime_dictbuilder.dir/share/dictbuilder.cpp.o	ee0bcba48c531628
+1	106	1653622198024858951	CMakeFiles/pinyin_ime_dictbuilder.dir/share/utf16reader.cpp.o	eea785a666913321
+0	37	1653622341040666657	build.ninja	565d565c1890d0f3
+0	343	1653621818892333472	CMakeFiles/pinyin_ime_dictbuilder.dir/main.cpp.o	ae0123e24e2e7b61
+1	104	1653622114120897033	CMakeFiles/pinyin_ime_dictbuilder.dir/share/mystdlib.cpp.o	133cb38b9b4b4ad
+4	127	1653622152842782866	CMakeFiles/pinyin_ime_dictbuilder.dir/share/searchutility.cpp.o	e248eb159dec5898
+1	196	1653622175713849852	CMakeFiles/pinyin_ime_dictbuilder.dir/share/spellingtable.cpp.o	a010728ab2142b3d
+2	88	1653622175603844799	CMakeFiles/pinyin_ime_dictbuilder.dir/share/utf16char.cpp.o	8b4e9182434c948b
+1	113	1653622175633846177	CMakeFiles/pinyin_ime_dictbuilder.dir/share/splparser.cpp.o	77ed756202e01e41
+3	104	1653622152812781444	CMakeFiles/pinyin_ime_dictbuilder.dir/share/lpicache.cpp.o	a27e8d58dac14327
+0	113	1653622256877380042	CMakeFiles/pinyin_ime_dictbuilder.dir/share/dictlist.cpp.o	ce1ce8d93d08d477
+0	46	1653622341040666657	build.ninja	565d565c1890d0f3
+0	147	1653622341200672577	CMakeFiles/pinyin_ime_dictbuilder.dir/pinyinime_dictbuilder.cpp.o	6b6befd581665929
+147	274	1653622341320677018	pinyin_ime_dictbuilder	822cf5e2be841426
+1	159	1653622510106340383	CMakeFiles/pinyin_ime_dictbuilder.dir/pinyinime_dictbuilder.cpp.o	6b6befd581665929
+159	307	1653622510256344950	pinyin_ime_dictbuilder	822cf5e2be841426
+0	166	1653622607109150028	CMakeFiles/pinyin_ime_dictbuilder.dir/pinyinime_dictbuilder.cpp.o	6b6befd581665929
+166	361	1653622607299155263	pinyin_ime_dictbuilder	822cf5e2be841426
+0	167	1653622640550056921	CMakeFiles/pinyin_ime_dictbuilder.dir/pinyinime_dictbuilder.cpp.o	6b6befd581665929
+167	304	1653622640690060657	pinyin_ime_dictbuilder	822cf5e2be841426
+0	8	0	clean	e437286876ee02fd
